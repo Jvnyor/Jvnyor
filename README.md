@@ -5,4 +5,4 @@ Abaixo estão minhas competências no momento, sempre buscando evoluir!
 - Conhecimento em Banco de Dados MySQL e Oracle SQL.
 - Conhecimento em Bootstrap, Jquery e Node.js.
 - Conhecimento em HTML5 e CSS3.
-- Conhecimento em GIT e GitHub.
+- Conhecimento em Git e GitHub.
