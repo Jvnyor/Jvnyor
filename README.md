@@ -6,3 +6,13 @@ Abaixo estão minhas competências no momento, sempre buscando evoluir!
 - Conhecimento em HTML5 e CSS3.
 - Iniciando conhecimentos em ReactJS, Node.js e Next.js.
 - Interesse em framework Django.
+
+<a target="_blank" href="https://www.linkedin.com/in/josias100junior/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5581981081576">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="mailto:josias100junior@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
