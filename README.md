@@ -4,5 +4,5 @@ Abaixo estão minhas competências no momento, sempre buscando evoluir!
 - Conhecimento em JavaScript, Python e PHP.
 - Conhecimento em Banco de Dados MySQL e MongoDB.
 - Conhecimento em HTML5 e CSS3.
-- Iniciando conhecimentos em ReactJS, Node.js e Next.js.
+- Iniciando conhecimentos em VueJS e Node.js.
 - Interesse em framework Django.
