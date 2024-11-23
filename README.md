@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm a Backend Java Developer!
+  I'm a Backend Developer / DevOps!
 </p>
 
 <p align='center'>
