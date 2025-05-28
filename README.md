@@ -19,8 +19,8 @@ I'm Josias, a passionate developer with a strong background in various programmi
 
 ### Summary of Qualifications:
 
-- **Programming Languages:** Java, Kotlin, Python, JavaScript, TypeScript, Node.js
-- **Frameworks and Libraries:** Spring Boot, Spring WebFlux, Spring Batch, Quarkus, Micronaut, Express, FastAPI, Django, Flask
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, Node.js
+- **Frameworks and Libraries:** Spring Boot, Spring WebFlux, Spring Batch, Quarkus, Express, FastAPI, Django, Flask
 - **Architectural Principles:** Microservices, Event-driven Architecture, MVC, Clean Architecture, Hexagonal Architecture, DDD, BDD, TDD, SOLID Principles, Design Patterns
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **APIs and Messaging:** RESTful, GraphQL, SOAP, WebSocket, Apache Kafka, RabbitMQ
